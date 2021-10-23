@@ -1,0 +1,3 @@
+require version-baseband=3.0.C1-347687
+require version-trustzone=TZ.BF.4.0.5-349421
+require version-vendor=1623752681
